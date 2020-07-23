@@ -44,4 +44,4 @@ position: fixed;
 
 11.Within few minites your website is deployed
 
-The link of my Website is : https://tejas1510.github.io/tejasstapas.github.io/
+The link of my Website is : https://tejas1510.github.io/Final-Portfolio-Website/
