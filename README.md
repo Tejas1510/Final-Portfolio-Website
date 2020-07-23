@@ -3,7 +3,7 @@ if anyone want to get start by building their website you can start by taking th
 
 To start got to git bash and type command
 
-git clone https://github.com/Tejas1510/tejasstapas.github.io.git
+git clone https://github.com/Tejas1510/Final-Portfolio-Website.git
 
 This will get all the folder to your local host machine.
 
